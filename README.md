@@ -8,11 +8,13 @@
 
 ## Мои навыки
 
--Python
--Git
--Git Hab
--Maschine Learning
+- Python
+- Git
+- Git Hab
+- Maschine Learning
 
 ## Контакты мои
 
 GitHab: legenda@miffa
+
+![Моё фото](photo_2026-07-22_23-07-24.jpg)
